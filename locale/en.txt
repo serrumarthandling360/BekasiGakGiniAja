@@ -15,7 +15,6 @@ DropDown_9C75CF9F_A7AB_C74F_41DA_62AEEAE1BFCB.prompt = MENU
 
 ### Label
 Label_979E2816_A4AF_C951_41BA_FB8035735D49.text = copyright SERRUM ARTHANDLING
-Label_979E2816_A4AF_C951_41BA_FB8035735D49_mobile.text = copyright SERRUM ARTHANDLING
 
 ## Media
 
@@ -114,9 +113,27 @@ LinkBehaviour_A7E17594_B49E_F04C_41E4_AE1101D3AE39.source = https://www.instagra
 LinkBehaviour_A7F55847_B492_10CC_41E5_968C78FF091A.source = https://www.instagram.com/_spasi_/
 PopupWebFrameBehaviour_92447C5F_A765_C9CF_41D4_349DD7D313DE.url = //www.youtube.com/embed/ZREEDYWuPw4?v=ZREEDYWuPw4
 PopupWebFrameBehaviour_92804FA0_A49A_4771_41D1_D4F8495920E9.url = https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Finfobekasi.coo%2Fposts%2F1637300103127875&width=500&show_text=true&height=707&appId
-PopupWebFrameBehaviour_93463B2D_A4AA_4F73_41DC_33A96C895E72.url = https://www.instagram.com/p/CNPENXssTfZ/embed
+PopupWebFrameBehaviour_93463B2D_A4AA_4F73_41DC_33A96C895E72.url = https://www.instagram.com/p/CNbzaDJJoGV/embed
 PopupWebFrameBehaviour_9617ED7D_A4E6_4BD3_41CF_5B7EA4F51533.url = https://www.google.com/maps/embed?pb=!4v1617678505915!6m8!1m7!1sFSKzy91LTgbLFwe_xwj2uQ!2m2!1d-6.253959490854887!2d107.0034788397039!3f49.893683135797886!4f0.3872002894463833!5f0.4000000000000002
 PopupWebFrameBehaviour_9FF02C49_A79A_C933_41E2_CA81545C50A0.url = https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Finfobekasi.coo%2Fposts%2F1637300103127875&width=500&show_text=true&height=707&appId
-PopupWebFrameBehaviour_9FF05C49_A79A_C933_41C2_13AC6A039F17.url = https://www.instagram.com/p/CNPENXssTfZ/embed
+PopupWebFrameBehaviour_9FF05C49_A79A_C933_41C2_13AC6A039F17.url = https://www.instagram.com/p/CNbzaDJJoGV/embed
 PopupWebFrameBehaviour_9FF0CC49_A79A_C933_41C4_78E13A3D8915.url = //www.youtube.com/embed/ZREEDYWuPw4?v=ZREEDYWuPw4
 PopupWebFrameBehaviour_9FF12C49_A79A_C933_41D5_4E9A7FFB3F9B.url = https://www.google.com/maps/embed?pb=!4v1617678505915!6m8!1m7!1sFSKzy91LTgbLFwe_xwj2uQ!2m2!1d-6.253959490854887!2d107.0034788397039!3f49.893683135797886!4f0.3872002894463833!5f0.4000000000000002
+PopupWebFrameBehaviour_A29DBB00_B524_5424_41E0_9D93A252D28A.url = https://www.instagram.com/p/CIarhCrAYog/
+PopupWebFrameBehaviour_A2AAA929_B524_3465_41E2_8025009D6AE2.url = https://www.instagram.com/p/CMm67s_Fyxr/embed
+PopupWebFrameBehaviour_A37E59F4_B524_37E3_41CA_E65A9E0126C6.url = https://www.instagram.com/p/CLbuq6NBnm9/embed
+PopupWebFrameBehaviour_A37F1D06_B53B_CC2C_41E2_70001913610E.url = https://www.instagram.com/p/Blywdbuh_Hn/embed
+PopupWebFrameBehaviour_A7BAE7E1_B564_7BE5_41DF_23BF493C01F5.url = https://www.instagram.com/p/CFrlAqVAkBq/embed
+PopupWebFrameBehaviour_A808422D_B52C_547C_41E2_B27D39954F69.url = https://www.instagram.com/p/CNR-oPkMbWA/embed
+PopupWebFrameBehaviour_A80D1857_B524_342D_41C4_E51C130B5695.url = https://www.instagram.com/p/Blywdbuh_Hn/embed
+PopupWebFrameBehaviour_A85C5B35_B527_D46D_41E0_7F035B0D2619.url = https://www.instagram.com/p/CMb9qquD5GF/embed
+PopupWebFrameBehaviour_A8833A24_B524_D463_41E1_C735E54413BF.url = https://www.instagram.com/p/CNY6-J2A66y/embed
+PopupWebFrameBehaviour_A8915515_B52B_FC2C_41AF_9013169294E0.url = https://www.instagram.com/p/CMm67s_Fyxr/embed
+PopupWebFrameBehaviour_A89B8A19_B524_D425_41E4_9EAEA49925D8.url = https://www.instagram.com/p/CFrlAqVAkBq/embed
+PopupWebFrameBehaviour_A8B6D412_B565_DC27_41D7_096414D92A72.url = https://www.instagram.com/p/BPmQY28jCX_/embed
+PopupWebFrameBehaviour_AB633AAC_B524_547C_41A6_5D0641429459.url = https://www.instagram.com/p/CLbuq6NBnm9/embed
+PopupWebFrameBehaviour_ABFD340F_B52C_5C3D_41E2_CFA29B833398.url = https://www.instagram.com/p/CM1zvsIAhIW/embed
+PopupWebFrameBehaviour_AC93CB76_B56C_74EF_41E0_2704FBB7B703.url = https://www.instagram.com/p/CMb9qquD5GF/embed
+PopupWebFrameBehaviour_ACA8F780_B564_3C23_4195_1BE8C4983668.url = https://www.instagram.com/p/CNR-oPkMbWA/embed
+PopupWebFrameBehaviour_ADB6EF8A_B52C_4C24_41AC_4B0CD8A8CF13.url = https://www.instagram.com/p/BPmQY28jCX_/embed
+PopupWebFrameBehaviour_ADE7AC78_B56F_CCE4_41E4_4646B95D511D.url = https://www.instagram.com/p/CNY6-J2A66y/embed
