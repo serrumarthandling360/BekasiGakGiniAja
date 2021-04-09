@@ -57,6 +57,20 @@ panorama_B9202F92_A3AA_4751_41E3_DE3C24B11CBA.label = GS__6538
 ### URL
 LinkBehaviour_924D9F20_A4EA_4771_41C8_3C765C16B882.source = https://infobekasi.co/
 LinkBehaviour_9FF35C49_A79A_C933_41DF_DAD2033BB170.source = https://infobekasi.co/
+LinkBehaviour_A1CBC1D4_B5AC_21CC_41A8_6FA3B68D7824.source = https://www.instagram.com/_art.zi_/
+LinkBehaviour_A1DF328F_B5D4_625B_41DD_9B561AB3C5A5.source = https://www.instagram.com/ridwanrau_rau/
+LinkBehaviour_A1E8979C_B5D4_227C_41C4_CBB0ED2505CF.source = https://www.instagram.com/the_ayankz/
+LinkBehaviour_A1EA3C62_B5AC_26C5_41E5_C83B2125E786.source = https://www.instagram.com/radenmonic/
+LinkBehaviour_A20D3EBF_B5D4_63BB_41DB_FD7E35385BDF.source = https://www.instagram.com/ekacaw/
+LinkBehaviour_A22AE7EF_B5D4_61DC_41A5_F75D742850F5.source = https://www.instagram.com/themahard/
+LinkBehaviour_A24380AA_B5B4_1E44_41E2_BF547E696440.source = https://www.instagram.com/ndoegraf/
+LinkBehaviour_A25499E7_B5B4_21CB_41C6_F96EEF60E8D4.source = https://www.instagram.com/thewose/
+LinkBehaviour_A268C776_B5D4_22CD_41D0_505CF5F610DC.source = https://www.instagram.com/namarkaa/
+LinkBehaviour_A2C0C910_B5DD_EE44_41E4_456D62D5FFBF.source = https://www.instagram.com/billytriantika/
+LinkBehaviour_A2C1BEBE_B5AD_E3BC_41A9_13C7DF8C716A.source = https://www.instagram.com/papsiyan/
+LinkBehaviour_A30A9A5B_B5D4_22C4_4194_CB0A5F8248E0.source = https://www.instagram.com/loveisstubyariefenpe_/
+LinkBehaviour_A373586C_B5DC_EEDC_41E4_3D98265C67D7.source = https://www.instagram.com/alivion_/
+LinkBehaviour_A3CF27E5_B5B4_61CC_41D4_1218DC3BA316.source = https://www.instagram.com/salim_cheeks/
 PopupWebFrameBehaviour_92447C5F_A765_C9CF_41D4_349DD7D313DE.url = //www.youtube.com/embed/ZREEDYWuPw4?v=ZREEDYWuPw4
 PopupWebFrameBehaviour_92804FA0_A49A_4771_41D1_D4F8495920E9.url = https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Finfobekasi.coo%2Fposts%2F1637300103127875&width=500&show_text=true&height=707&appId
 PopupWebFrameBehaviour_93463B2D_A4AA_4F73_41DC_33A96C895E72.url = https://www.instagram.com/p/CNPENXssTfZ/embed
